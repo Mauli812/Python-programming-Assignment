@@ -1,14 +1,8 @@
 # 💻 Advanced Python Programming Repository
 
-<p align="left">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-</p>
-
 ---
 
-## 👤 Scholar Profile
+## 👤  Profile
 ```git
 ┌───────────────────┬──────────────────────────────────┐
 │ Profile Property  │ Administrative Value             │
@@ -91,6 +85,99 @@ This repository tracks 10 complex software engineering problems optimized across
 <p align="left"><img src="ASS-1/op10.png" width="600" alt="Tracker Desktop Frame"></p>
 
 ---
+## 📂 Assignment 2: Advanced Integration & Data Automations
+
+### 🔹 Program 1: Regex-Based Email Intelligence Extractor
+📌 Text Pattern Parsing • Metacharacter Filters • Domain Analysis  
+
+<p align="center">
+  <img src="ASS-2/op1.png" width="650" alt="Regex-Based Email Intelligence Extractor Output">
+</p>
+
+---
+
+### 🔹 Program 2: Offline Web Scraping Ranker from HTML Pages
+📌 DOM Node Traversal • Element Filtering • Custom Metric Sorting  
+
+<p align="center">
+  <img src="ASS-2/op2.png" width="650" alt="Offline Web Scraping Ranker Output">
+</p>
+
+---
+
+### 🔹 Program 3: MySQL Student-Course Analytics Engine
+📌 Database Relational Models • Analytical Aggregations • Key Constraints  
+
+<p align="center">
+  <img src="ASS-2/op3.png" width="650" alt="MySQL Student-Course Analytics Engine Output">
+</p>
+
+---
+
+### 🔹 Program 4: SQL Join Query Builder and Validator
+📌 Dynamic Query Compilers • Syntax Safety Controls • Join Type Translators  
+
+<p align="center">
+  <img src="ASS-2/op4.png" width="650" alt="SQL Join Query Builder Output">
+</p>
+
+---
+
+### 🔹 Program 5: Tkinter Contact Manager with MySQL Backend
+📌 Stateful GUI Form Binding • RDBMS CRUD Controls • Event Binding  
+
+<p align="center">
+  <img src="ASS-2/op5.png" width="650" alt="Tkinter Contact Manager Output">
+</p>
+
+---
+
+### 🔹 Program 6: Log Anomaly Detector using Sliding Window
+📌 Stream Windows • Outlier Identification Thresholds • Dynamic State Trackers  
+
+<p align="center">
+  <img src="ASS-2/op6.png" width="650" alt="Log Anomaly Detector Output">
+</p>
+
+---
+
+### 🔹 Program 7: Generator-Based JSON ETL Pipeline
+📌 Memory-Efficient Yields • Lazy Transformation Streams • Large Scale Processing  
+
+<p align="center">
+  <img src="ASS-2/op7.png" width="650" alt="Generator-Based JSON ETL Pipeline Output">
+</p>
+
+---
+
+### 🔹 Program 8: Matrix Path Optimizer with Dynamic Programming
+📌 Optimal Substructure Overlaps • Grid State Memos • Path Tracing Matrices  
+
+<p align="center">
+  <img src="ASS-2/op8.png" width="650" alt="Matrix Path Optimizer Output">
+</p>
+
+---
+
+### 🔹 Program 9: OOP Inventory Merger with Operator Overloading
+📌 Dunder Method Injectors • Magic Polymorphism Overrides • In-Place Mutation Guards  
+
+<p align="center">
+  <img src="ASS-2/op9.png" width="650" alt="OOP Inventory Merger Output">
+</p>
+
+---
+
+### 🔹 Program 10: Python Data Visualization Dashboard Exporter
+📌 Statistical Chart Renderers • Multi-Axes Planners • Static File Importers  
+
+<p align="center">
+  <img src="ASS-2/op10.png" width="650" alt="Python Data Visualization Dashboard Exporter Output">
+</p>
+
+---
+
+
 
 ## 📁 Repository Structure
 ```text
@@ -118,6 +205,27 @@ Python-Programming-Assignment/
 │   ├── op8.png       # Program 8 Output Capture
 │   ├── op9.png       # Program 9 Output Capture
 │   └── op10.png      # Program 10 Output Capture
-│
+├── ASS-2/
+│   ├── p1.py         # Campus Merit Analyzer Engine
+│   ├── p2.py         # Aho-Corasick Password Auditor
+│   ├── p3.py         # Recursive Stack Expression Parser
+│   ├── p4.py         # Exception-Safe CSV Splitter Stream
+│   ├── p5.py         # Atomic Transaction Settlement Bank
+│   ├── p6.py         # Kahn's Priority Topological Graph Resolver
+│   ├── p7.py         # Custom Exception Interactive Calculator
+│   ├── p8.py         # Inverted Index Pickle/Zip Pipeline
+│   ├── p9.py         # Event-Driven Heaped Scheduler Simulator
+│   ├── p10.py        # Optimized Tkinter GUI Management Client
+│   │
+│   ├── op1.png       # Program 1 Output Capture
+│   ├── op2.png       # Program 2 Output Capture
+│   ├── op3.png       # Program 3 Output Capture
+│   ├── op4.png       # Program 4 Output Capture
+│   ├── op5.png       # Program 5 Output Capture
+│   ├── op6.png       # Program 6 Output Capture
+│   ├── op7.png       # Program 7 Output Capture
+│   ├── op8.png       # Program 8 Output Capture
+│   ├── op9.png       # Program 9 Output Capture
+│   └── op10.png      # Program 10 Output Capture
 └── README.md         # Repository Documentation
 ```
